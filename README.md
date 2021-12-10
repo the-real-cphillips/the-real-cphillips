@@ -43,6 +43,9 @@ Also I Like Hockey...
   <img align="center" src="https://github-readme-stats-the-real-cphillips.vercel.app/api/pin/?username=the-real-cphillips&repo=aws-python-tools&theme=dark&show_icons=true" />
 </a>
 
+---
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=the-real-cphillips.the-real-cphillips&right_color=red&left_color=black)
 <!--
 **the-real-cphillips/the-real-cphillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
