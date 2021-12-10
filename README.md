@@ -7,17 +7,13 @@ I currently reside in North Carolina, but originally from New York!
 
 ---
 
-### I love to automate.  
+### <details><summary>I Love to Automate</summary>![https://xkcd.com/1319/](https://imgs.xkcd.com/comics/automation.png)</details>
 
-![https://xkcd.com/1319/](https://imgs.xkcd.com/comics/automation.png)
+### <details><summary>I Love to Explore</summary>![https://xkcd.com/1232/](https://imgs.xkcd.com/comics/realistic_criteria.png)</details>
 
-### I love to explore.  
-![https://xkcd.com/1232](https://imgs.xkcd.com/comics/realistic_criteria.png)
+### <details><summary>I Love Documents and Best Practices</summary>![https://xkcd.com/927/](https://imgs.xkcd.com/comics/standards.png)
 
-### I love to document standards and best practices!  
-![https://xkcd.com/927](https://imgs.xkcd.com/comics/standards.png)
-
-I also happen to like xkcd 😏
+<sub>I also happen to like xkcd 😏</sub>
 
 ---
 
