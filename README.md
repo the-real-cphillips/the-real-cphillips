@@ -15,8 +15,30 @@ I currently reside in North Carolina, but originally from New York!
 
 <sub>I also happen to like xkcd 😏</sub>
 
-### <details><summary>I Also Enjoy Photography!</summary>https://github.com/the-real-cphillips/photography</details>
+### <details><summary>I Also Enjoy Photography!</summary>[![Repo Card](https://github-readme-stats-the-real-cphillips.vercel.app//api/pin/?username=the-real-cphillips&repo=photography&show_icons=true&theme=dark)](https://github.com/the-real-cphillips/github-readme-stats)
+</details>
+
 ---
+
+### Stats
+
+[![Stats](https://github-readme-stats-the-real-cphillips.vercel.app/api/?username=the-real-cphillips&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/the-real-cphillips/github-readme-stats)
+
+---
+
+### Repos
+<a href="https://github.com/the-real-cphillips/config">
+  <img align="center" src="https://github-readme-stats-the-real-cphillips.vercel.app/api/pin/?username=the-real-cphillips&repo=config&theme=dark&show_icons=true" />
+</a>
+<a href="https://github.com/the-real-cphillips/dotfiles">
+  <img align="center" src="https://github-readme-stats-the-real-cphillips.vercel.app/api/pin/?username=the-real-cphillips&repo=dotfiles&theme=dark&show_icons=true" />
+</a>
+<a href="https://github.com/the-real-cphillips/workstation-bootstrap">
+  <img align="center" src="https://github-readme-stats-the-real-cphillips.vercel.app/api/pin/?username=the-real-cphillips&repo=workstation-bootstrap&theme=dark&show_icons=true" />
+</a>
+<a href="https://github.com/the-real-cphillips/aws-python-tools">
+  <img align="center" src="https://github-readme-stats-the-real-cphillips.vercel.app/api/pin/?username=the-real-cphillips&repo=aws-python-tools&theme=dark&show_icons=true" />
+</a>
 
 <!--
 **the-real-cphillips/the-real-cphillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
