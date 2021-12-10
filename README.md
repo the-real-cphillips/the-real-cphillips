@@ -18,7 +18,7 @@ Also I Like Hockey...
 
 <sub>I also happen to like xkcd 😏</sub>
 
-### <details><summary>I Also Enjoy Photography!</summary>[![Repo Card](https://github-readme-stats-the-real-cphillips.vercel.app//api/pin/?username=the-real-cphillips&repo=photography&show_icons=true&theme=dark)](https://github.com/the-real-cphillips/github-readme-stats)
+### <details><summary>I Also Enjoy Photography!</summary>[![Repo Card](https://github-readme-stats-the-real-cphillips.vercel.app//api/pin/?username=the-real-cphillips&repo=photography&show_icons=true&theme=dark)](https://github.com/the-real-cphillips/photography)
 </details>
 
 ---
