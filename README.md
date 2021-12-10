@@ -4,7 +4,8 @@ I'm currently a Cloud/DevOps Engineer/Evangelizer.  I've been around tech as a w
 
 I currently reside in North Carolina, but originally from New York!  
 
-Also I Like Hockey...
+Also I Like Hockey...  
+
 ![LGR!](https://i.imgur.com/jI38Z9o.png)
 
 ---
