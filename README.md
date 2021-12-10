@@ -11,11 +11,11 @@ I currently reside in North Carolina, but originally from New York!
 
 ### <details><summary>I Love to Explore</summary>![https://xkcd.com/1232/](https://imgs.xkcd.com/comics/realistic_criteria.png)</details>
 
-### <details><summary>I Love Documents and Best Practices</summary>![https://xkcd.com/927/](https://imgs.xkcd.com/comics/standards.png)
+### <details><summary>I Love Documents and Best Practices</summary>![https://xkcd.com/927/](https://imgs.xkcd.com/comics/standards.png)</details>
 
 <sub>I also happen to like xkcd 😏</sub>
 
-### <details><summary>I Also Enjoy Photography!</summary>![photography](https://github.com/the-real-cphillips/photography)
+### <details><summary>I Also Enjoy Photography!</summary>https://github.com/the-real-cphillips/photography</details>
 ---
 
 <!--
