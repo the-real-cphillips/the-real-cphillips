@@ -15,6 +15,7 @@ I currently reside in North Carolina, but originally from New York!
 
 <sub>I also happen to like xkcd 😏</sub>
 
+### <details><summary>I Also Enjoy Photography!</summary>![photography](https://github.com/the-real-cphillips/photography)
 ---
 
 <!--
