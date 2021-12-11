@@ -33,8 +33,8 @@ Also I Like Hockey...
 <a href="https://github.com/the-real-cphillips/config">
   <img align="center" src="https://github-readme-stats-the-real-cphillips.vercel.app/api/pin/?username=the-real-cphillips&repo=config&theme=dark&show_icons=true" />
 </a>
-<a href="https://github.com/the-real-cphillips/dotfiles">
-  <img align="center" src="https://github-readme-stats-the-real-cphillips.vercel.app/api/pin/?username=the-real-cphillips&repo=dotfiles&theme=dark&show_icons=true" />
+<a href="https://github.com/the-real-cphillips/photography">
+  <img align="center" src="https://github-readme-stats-the-real-cphillips.vercel.app/api/pin/?username=the-real-cphillips&repo=photography&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/the-real-cphillips/workstation-bootstrap">
   <img align="center" src="https://github-readme-stats-the-real-cphillips.vercel.app/api/pin/?username=the-real-cphillips&repo=workstation-bootstrap&theme=dark&show_icons=true" />
