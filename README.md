@@ -2,7 +2,7 @@
 
 I'm currently a Cloud/DevOps Engineer/Evangelizer.  I've been around tech as a whole for 20ish years.
 
-I currently reside in North Carolina, but originally from New York!  
+I currently reside in Connecticut, but originally from New York!  
 
 Also I Like Hockey...  
 
