@@ -25,7 +25,7 @@ Also I Like Hockey...
 
 ### Stats
 
-[![Stats](https://github-readme-stats-the-real-cphillips.vercel.app/api/?username=the-real-cphillips&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/the-real-cphillips/github-readme-stats)
+[![Stats](https://github-readme-stats-the-real-cphillips.vercel.app/api/?username=the-real-cphillips&show_icons=true&theme=dark&include_all_commits=true&count_private=true,&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/the-real-cphillips/github-readme-stats)
 
 ---
 
