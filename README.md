@@ -30,9 +30,6 @@ Also I Like Hockey...
 ---
 
 ### Repos
-<a href="https://github.com/the-real-cphillips/config">
-  <img align="center" src="https://github-readme-stats-the-real-cphillips.vercel.app/api/pin/?username=the-real-cphillips&repo=config&theme=dark&show_icons=true" />
-</a>
 <a href="https://github.com/the-real-cphillips/photography">
   <img align="center" src="https://github-readme-stats-the-real-cphillips.vercel.app/api/pin/?username=the-real-cphillips&repo=photography&theme=dark&show_icons=true" />
 </a>
