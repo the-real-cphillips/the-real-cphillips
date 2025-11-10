@@ -1,6 +1,6 @@
 ## Hi I'm Craig
 
-I'm currently a Cloud/DevOps Engineer/Evangelizer.  I've been around tech as a whole for 20ish years.
+I'm currently a Cloud/DevOps Engineer.  I've been around tech as a whole for 20-ish years.
 
 I currently reside in Connecticut, but originally from New York!  
 
