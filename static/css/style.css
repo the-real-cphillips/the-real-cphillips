@@ -1,0 +1,17 @@
+/* Custom CSS for the portfolio site (from user's style.css) */
+body {
+  font-family: 'Inter', sans-serif;
+  /* Smooth transition for theme change (used by JS) */
+  transition: background-color 0.3s, color 0.3s; 
+}
+
+.gradient-bg {
+  /* Darker Blue Gradient (Blue-800 to Blue-600 - from user's style.css) */
+  background: linear-gradient(135deg, #030f36 0%, #0e285f 100%);
+}
+
+/* Custom scrollbar style for dark mode aesthetics */
+.dark ::-webkit-scrollbar-thumb {
+    background: #4b5563; /* Gray-600 */
+    border-radius: 9999px;
+}
